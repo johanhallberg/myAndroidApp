@@ -1,0 +1,4 @@
+myAndroidApp
+============
+
+Testing of AndroidApp
